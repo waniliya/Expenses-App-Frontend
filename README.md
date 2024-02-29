@@ -2,6 +2,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
+Frontend section Dependencies installation: "@reduxjs/toolkit": "^1.8.6", "axios": "^1.1.3", "bootstrap": "^5.2.2", "bootstrap-icons": "^1.9.1", "react-redux": "^8.0.4", "react-router-dom": "^6.4.2"
+To run frontend: npm start
+
 ## Available Scripts
 
 In the project directory, you can run:
