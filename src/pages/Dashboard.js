@@ -151,7 +151,7 @@ const Dashboard = () => {
                 onChange={(e) => setAmount(e.target.value)} placeholder="Amount"/>
         <label for="floatingInput">Amount RM:</label>
         </div>
-        <button type="submit" className="btn btn-primary mt-3">Add Record</button>
+        <button type="submit" className="btn btn-primary mt-3" id="add">Add Record</button>
         
         </form>
         
