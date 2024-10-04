@@ -1,7 +1,12 @@
 #panel{
-    background: #E5C3A6
+    background: #E5C3A6;
+    color: #EDEFF0;
 }
 
 #stext{
-    color: azure;
+    color: #000303;
+}
+
+#paneltext {
+    color: #EDEFF0;
 }
