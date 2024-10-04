@@ -1,7 +1,25 @@
 #dashboard{
-    background: #7C81AD;
+    background: #EDEFF0;
 }
 
 #panel{
-    background: #E5C3A6
+    background: #8FADAD
+}
+#add{
+    background: #6C7476;
+    border-color: #6C7476;
+}
+
+#add:hover{
+    background: #F99E17;
+    border-color: #F99E17;
+}
+
+.input{
+    background: #6C7476;
+    border-color: #6C7476;
+    color: #EDEFF0;
+}
+.list{
+    background: #EDEFF0;
 }
